@@ -1,5 +1,7 @@
 # Zephyros
 Multidisciplinary project for oxygen generation, medical artificial breathers and cloud services. <br />
+
+# ![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
 ## Team <br />
 Engineering <br />
 Abel Geovanny Loera – Linkedin – https://www.linkedin.com/in/abel-geovanny-loera-navarro-a63542123 <br />
