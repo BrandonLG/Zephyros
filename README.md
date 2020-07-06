@@ -76,8 +76,12 @@ There are many procedures to obtain oxygen, however, in order to select a proced
 •	It must be safe. <br />
 •	Cheap. <br />
 •	Simple to operate. <br />
-•	Sufficient oxygen production. <br />
+•	Sufficient oxygen production. <br /><br />
 Within these procedures we found two procedures as possible candidates to develop, the first is a process based on gas pressures and absorbent material (PSA) and the second based on electrolysis. <br />
 Electrolysis, without the appropriate materials, is costly at the electrical energy level, produces little oxygen and is quite unsafe since it generates gaseous hydrogen [3] and it is highly flammable and in appropriate conditions is explosive [4]. <br />
 Therefore we select the pressure process called PSA. <br />
 Note: See Annex B for the theory behind the PSA. <br />
+
+## Conceptual design
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Zephyros_solution.JPG?raw=true)
+
