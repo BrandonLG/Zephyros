@@ -82,6 +82,15 @@ Electrolysis, without the appropriate materials, is costly at the electrical ene
 Therefore we select the pressure process called PSA. <br />
 Note: See Annex B for the theory behind the PSA. <br />
 
-## Conceptual design
-![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Zephyros_solution.JPG?raw=true)
+## Conceptual design oxygen concentrator
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Oxygen_concentrator.png?raw=true)
+
+## Process indication
+According to the theory we will be working at pressures between 45 and 115 psi (4 to 8 bar) maximum. The air around us is at 14.7 psi, therefore we will be working with pressures higher than atmospheric.
+It seems to be dangerous but the water you have in your house is between 40 and 80 psi maximum, so we will be working at relatively similar pressures but with gases [5].
+Another factor to consider is the temperatures of the process and the environment around you, however, the temperature range of planet Earth on its surface ranges from -85 ° C (-117.4 ° F) to almost 60 ° C (140 ° F) [6] .
+And for the process, we will be working under the shade at a temperature similar to 25 ° C (77 ° F), however, the temperature of your home and region may be different from ours.
+Note: See Annex C for the safety data sheets of the chemical products involved in the process.
+Table 1. - Process production by type of absorber diameter. Oxygen produced between 60 - 80% concentrations with zeolite [7].
+
 
