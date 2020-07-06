@@ -58,4 +58,5 @@ The mask can be printed with a 3-D printer or you can create it by hand. <br />
 This solution must only be used in mild to moderate cases when there is a partial substitution of the respiratory capacity, which means no intubation or entering systems to the trachea- lungs. <br />
 The most severe cases require specialized machinery since sometimes there must be up to 99% oxygen concentration. <br />
 For the replacement of the total respiratory capacity at the mechanical-electrical respirator level, we are working on a software update and new sensor connections-components to the Arduino, however, due to issues of time, budget and obtaining parts we have some delays. <br />
-This document is under continuous modification. Please see "notice" section for more legal advertising.
+This document is under continuous modification. Please see "notice" section for more legal advertising. <br /><br />
+## Conceptual diagram of the solution
