@@ -62,4 +62,22 @@ This solution must only be used in mild to moderate cases when there is a partia
 The most severe cases require specialized machinery since sometimes there must be up to 99% oxygen concentration. <br />
 For the replacement of the total respiratory capacity at the mechanical-electrical respirator level, we are working on a software update and new sensor connections-components to the Arduino, however, due to issues of time, budget and obtaining parts we have some delays. <br />
 This document is under continuous modification. Please see "notice" section for more legal advertising. <br /><br />
+
 ## Conceptual diagram of the solution
+
+ ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Zephyros_solution.JPG?raw=true)
+
+Note: The order of the sections “air compressor” and “water and CO2 elimination” inside the oxygen concentrator depends of the kind of compressor that you use.
+
+## Oxygen concentrator
+Given the current pandemic, in our country (Mexico) it is very likely that certain localities will be left without a concentrated oxygen supply for their patients, so we decided to show a concentrated oxygen production process in the simplest possible way. <br />
+There are many procedures to obtain oxygen, however, in order to select a procedure we must take into account the following points: <br />
+•	It must be built with common materials. <br />
+•	It must be safe. <br />
+•	Cheap. <br />
+•	Simple to operate. <br />
+•	Sufficient oxygen production. <br />
+Within these procedures we found two procedures as possible candidates to develop, the first is a process based on gas pressures and absorbent material (PSA) and the second based on electrolysis. <br />
+Electrolysis, without the appropriate materials, is costly at the electrical energy level, produces little oxygen and is quite unsafe since it generates gaseous hydrogen [3] and it is highly flammable and in appropriate conditions is explosive [4]. <br />
+Therefore we select the pressure process called PSA. <br />
+Note: See Annex B for the theory behind the PSA. <br />
