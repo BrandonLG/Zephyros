@@ -29,10 +29,10 @@ C. Inspiratory capacity (IC): Maximum inspired volume (approximately 3,500ml = 3
 D. Functional residual capacity (CFR): Volume of gas contained in the lungs after normal expiration (2,300ml = 2.3 L).<br /><br />
 
 Dynamic lung volumes:<br />
-	Forced Vital Capacity (CVF): Total volume exhaled through a maximum forced expiration.<br />
-	Vef1 / Fev1: Volume of gas exhaled during the first second of exhalation.<br />
-	FEF: Air flow in the middle part of expiration (between 25% and 75% of CVF).<br />
-	FEV1 / CVF ratio: Known as the Tiffeneau index (it is considered pathological with a level below 0.7). In invasive breathing.<br /><br />
+A. Forced Vital Capacity (CVF): Total volume exhaled through a maximum forced expiration.<br />
+B. Vef1 / Fev1: Volume of gas exhaled during the first second of exhalation.<br />
+C. FEF: Air flow in the middle part of expiration (between 25% and 75% of CVF).<br />
+D. FEV1 / CVF ratio: Known as the Tiffeneau index (it is considered pathological with a level below 0.7). In invasive breathing.<br /><br />
 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Breathing_curve_per_minute.jpg?raw=true)<br />
 Image 1. – Breathing curve per minute.<br /><br />
