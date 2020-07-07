@@ -532,7 +532,7 @@ Table 4.- Oxygen concentrator
 |Transparent hose x meter|1|
 |Filters (sheet) m2|5|
 |Total|283|
-<br /><br />
+
 
 Table 5.- Mechanical-electrical respirator
 
@@ -552,7 +552,7 @@ Table 5.- Mechanical-electrical respirator
 |3-D printing|11|
 |Protoboard|4|	
 |Total|238.7|
-<br /><br />
+
 
 These costs will decrease in environments like industrial production lines. <br />
 In addition, only the presented mechanical-electric respirator is at least twice cheaper than the cheapest model of fans for this item in industrial production, and the fan shown online does not include an oxygen generation capacity or allow working under the appropriate conditions. <br />
@@ -615,15 +615,14 @@ With all these investigations, iterative calculations and constant design modifi
 |Point|To consider|Status|Comments|
 |:---:|:---:|:---:|:---:|
 |1|It must be built with common materials and access to industrial production lines.|Done|Electrical control devices are easily accessible for production lines.|
-|2|Comply with medical specifications.|Done|Concentrated oxygen free of impurities through filters.|Control system for respiratory regulation and medical parameters.
-System with manual configuration capacity.
-Sensitivity to expiration.|
+|2|Comply with medical specifications.|Done|Concentrated oxygen free of impurities through filters.|Control system for respiratory regulation and medical parameters.System with manual configuration capacity.Sensitivity to expiration.|
 |3|insurance|Done|As long as it is in a box and out of the reach of children. Non-toxic materials.|
 |4|Can be decontaminated, cleaned and reused.|Done|Being segmented, it allows quick disarmament.|
 |5|Lower monetary cost compared to a common breathing system.|Done|| 
 |6|Simple to build, maintain and upgrade.|Done|Few parts, segmented and easy to replace. Update online.|
 |7|Scalable in improvements.|Done|Module-based design with quick installation and adaptation.|
-<br /><br />
+
+
 This solution is made up by:<br />
 1.	Oxygen concentrator.<br />
 2.	Mechanical-electric respirator. (Design, motor, valves, arduino and accessories, sensors and control system).<br />
