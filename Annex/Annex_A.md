@@ -1,5 +1,5 @@
 ## Mechanical ventilation
-Here you will understand the main reasons of mechanical ventilation procedure.
+Here you will understand the main reasons regarding mechanical ventilation procedure.
 
 ## Introduction
 Mechanical ventilation is a resource of medical therapy used to give life support whose objective is to support or replace respiratory function until the total or partial reversal of the underlying problem that caused respiratory failure.<br />
