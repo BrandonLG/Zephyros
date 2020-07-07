@@ -510,7 +510,7 @@ As of April 2, 2020. The cloud platform is on our side. The cost of the mask is 
 
 Table 4.- Oxygen concentrator
 |Equipment/Material|(USD)|
-|:---:||:---:|
+|:---:|:---:|
 |CPVC Tubes|25|
 |T type connectors x 9|5|
 |Elbow type connectors x 5|5|
@@ -537,7 +537,7 @@ Table 4.- Oxygen concentrator
 Table 5.- Mechanical-electrical respirator
 
 |Equipment/Material|(USD)|
-|:---:||:---:|
+|:---:|:---:|
 |SMC|120|
 |Arduino Mega|20|
 |Wifi Module|8|
@@ -613,7 +613,7 @@ Complete Solution<br />
 
 With all these investigations, iterative calculations and constant design modifications, we obtained a first prototype of a partial artificial respirator that: <br />
 |Point|To consider|Status|Comments|
-|:---:||:---:||:---:||:---:|
+|:---:|:---:|:---:|:---:|
 |1|It must be built with common materials and access to industrial production lines.|Done|Electrical control devices are easily accessible for production lines.|
 |2|Comply with medical specifications.|Done|Concentrated oxygen free of impurities through filters.|Control system for respiratory regulation and medical parameters.
 System with manual configuration capacity.
