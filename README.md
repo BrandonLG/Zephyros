@@ -226,7 +226,7 @@ Note: In case you want to do this step with a ball mill you will need: <br />
 •	Support for the steel container and the motor. <br /> <br />
 
 Arrange the pieces as seen in the following image. <br />
-![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Homemade_ball_mill.jpg?raw=true)<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Homemade_ball_mill.png?raw=true)<br />
 
 Image 1.- Homemade ball mill.<br />
 
@@ -309,7 +309,7 @@ The mechanical respirator consists of several sections:<br />
 •	Mechanical-Electrical.<br />
 •	Control system. See Annex E for further explanation of biomechanics and its control.<br />
 Conceptual design of the respirator without electronics:<br />
-![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_electrical_respirator_conceptual.jpg?raw=true)<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_electrical_respirator_conceptual.png?raw=true)<br />
 
 Image 2. – Conceptual design full solution.<br />
 
@@ -388,16 +388,16 @@ The control system regulates the machine's concentrated oxygen air outlet valve,
 These graphs showed the behavior of the control system through simulation with “Altair Activate” © open source.<br /><br />
 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Oxygen_pressure_and_breaths.jpg?raw=true)<br />
-Image 4. - Behavior of oxygen pressure at a pressure of 2.5 cm H2O and 15 breaths per minute (PaO2).<br />
+Image 4. - Behavior of oxygen pressure at a pressure of 2.5 cm H2O and 15 breaths per minute (PaO2).<br /><br />
 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Tydal_volume.jpg?raw=true)<br />
-Image 5. - Delivery air volume behavior (V or Tidal Volume).<br />
+Image 5. - Delivery air volume behavior (V or Tidal Volume).<br /><br />
 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Volumetric_flow.jpg?raw=true)<br />
-Image 6. - Delivered volumetric flow behavior (Q).<br />
+Image 6. - Delivered volumetric flow behavior (Q).<br /><br />
 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Behavior_of_predictions_for_PaO2.jpg?raw=true)<br />
-Image 7. - Behavior of predictions for PaO2, Q y V.<br />
+Image 7. - Behavior of predictions for PaO2, Q y V.<br /><br />
 
 These graphs showed the regulations of the concentrated oxygen pressure towards the patient, the volumetric flow of air and the Tidal volume to the patient for each breath.<br /> Following a sine pattern which, according to Annex A Table 4, is the best flow type since it increases the inspiratory time and is the most similar to normal breathing.<br />
 Even with the transfer function proposed in annex E equation Eq. 6, we would have a convergence problem after the 200 iterations, for this we insert a memory block to the system. This memory block only adds a delay of 1 integration per step-time to the circuit. It should be noted that this arrangement with the memory block, under certain circumstances, could incur numerical instability.<br /><br />
@@ -423,7 +423,7 @@ Therefore, we created a monitoring board in the cloud so that it can be accessed
 If any of the devices fails, then it would be an indication of failure on both boards and cause the taking of actions, even though the respirator has an audible alarm.
 However, it is important to emphasize that in our prototype is not 100% online at the moment.<br />
 Cloud conceptual diagram:<br />
-![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Cloud_monitoring.jpg?raw=true)<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Cloud_monitoring.png?raw=true)<br />
 
 Where:<br />
 1.	Mechanical-electrical respirator and sensors.<br />
@@ -435,6 +435,217 @@ Projected improvements to the platform and digitalization:<br />
 •	Internet updates.<br />
 •	Mobile app.<br />
 •	Notifications system through mobile application.<br />
+
+## Mask for partial breathing
+
+The mask is essential in an assisted breathing system. There are invasive and non-invasive. The difference lies in entering external devices into the body and in the case of total assisted respiration an invasive system such as intubation must be required.<br />
+In this project we are seeing a non-invasive type mask.<br /><br />
+The most common mask model is as follows:
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Breath_mask.jpg?raw=true)<br /><br />
+
+You can create it using PET bottles and garter.<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Artesanal_mask.jpg?raw=true)<br /><br />
+
+Materials:<br />
+•	Scissors.<br />
+•	PET bottle 1 L or higher.<br />
+•	Plastic hose.<br />
+•	Garters.<br />
+•	Scotch tape.<br />
+•	Plastic cable ties.<br /><br />
+Process:<br />
+1.	Wash hands, scissors, hoses, rubber bands, and the bottle with soap and water without leaving soap traces.<br />
+2.	Use a 1 liter or larger PET bottle.<br />
+3.	Cut the bottle as the image marks:<br />
+Note: Make a slight bend so it can fit your nose smoothly. We will use the part of the mouthpiece to take, we will call it "upper part". <br />
+4.	Insert garters to the sides of the top.<br />
+5.	Use the tape to cover the cut edges with the scissors to avoid discomfort.<br />
+6.	Remove the top cover.<br />
+7.	Wash with soap and water.<br />
+8.	Dry the top very well.<br />
+9.	Connect the hose to the nozzle.<br />
+10.	Seal the hose and the nozzle using tape - garters-plastic cable ties.<br /><br />
+With this you will have your own mask. Adjust it very well avoiding gas leaks.<br />
+Remember to wash the mask in case it is going to be used by someone else.<br />
+
+## Medical Operation Guide – Partial breathing substitution
+
+Important: This is only an operation guide, it does not imply the substitution of a health professional.<br />
+Before you start, make sure you have oxygen on hand, a stopwatch or alarm phone, print out the procedures for making oxygen, and have the printed guide. You should also read Annex A in its entirety.<br />
+You must have everything connected and ready including the oxygen tank or concentrator connected to the mechanical-electric respirator.<br />
+Remember that the total volume of your oxygen container defines the number of minutes according to the flow to be used in the "procedure" section. If your tank is 100L then divide 100 by the supplied oxygen flow and it will be the maximum minutes of available oxygen.<br />
+If you could not automate the process of the oxygen concentrator or do not have enough oxygen cylinders, will n to take turns and guards among several person as to assist those affected and execute procedures.<br />
+If the affected person has any previous or chronic illness, please contact a health professional first.<br /><br />
+ 
+Process:<br />
+1.	Lay the affected person down in a comfortable place with a shape as semi fowler.<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Pacient_As_semi_fowler.jpg?raw=true)<br />
+2.	Turn on the electrical mechanical respirator and set it to run at 15 breaths per minute.<br />
+3.	Set the respirator to a constant flow of 10 L per minute.<br />
+4.	Fill the two containers with water, the first must have 4 ml per Kg of mass and is connected between the systems so it humidify the air to the affected person. The second is at the end of the tube for expiration, the tube must be hitting the water. <br />
+5.	Schedule alarms on your cell from 1 minute to complete 20 minutes, set 5 minute alarms after the first 20 minutes for the next 45 minutes and then keep those alarms indefinitely.<br />
+6.	Put the mask on the affected person. It should be tight, not tight.<br />
+7.	Verify that the mask has no outdoor sections and is glued to the face.<br />
+8.	Ask the affected person how they feel about the mask. Does it bother you? Where?<br /><br />
+9.	Activate alarms.<br />
+10.	Opening the oxygen valve connected to the cylinder of oxygen or concentrate r oxygen with a flow rate of 10 L / minute.<br />
+11.	Constantly check the pressure of the oxygen cylinder or oxygen concentrator.<br />
+12.	When the pressure is less than 35 psi, run the procedure for generating oxygen in the oxygen concentrator or prepare the next cylinder at your disposal.<br />
+13.	Repeat steps 11 and 12 for until the last 20-minute alarm ends.<br />
+14.	Regulates the respirator flow to 8 L per minute and the oxygen flow to 8 L per minute.<br />
+15.	Every 15 minutes you will reduce 1 L per minute with respect to your last flow until you are at 5 L per minute.<br />
+16.	Constantly check the condition of the mechanical-electrical respirator and the oxygen pressure in your oxygen cylinder or concentrator. If you built the oxygen container in this document, when you reach 5 L per minute you will have oxygen for five minutes.<br />
+17.	Set alarms continuously and keep an eye on the affected.<br />
+18.	Wait for the affected person to recover, follow the instructions of the health doctors, if it worsens, please call the emergency numbers of your country and region.<br />
+
+In Jalisco, México: +523338233220<br />
+
+## Prototype costs
+Note: The costs are only for material, we do not include costs for labor.<br />
+As of April 2, 2020. The cloud platform is on our side. The cost of the mask is not included since it is handmade.<br /><br />
+
+Table 4.- Oxygen concentrator
+|Equipment/Material|(USD)|
+|:---:||:---:|
+|CPVC Tubes|25|
+|T type connectors x 9|5|
+|Elbow type connectors x 5|5|
+|Diameter reductors|10|
+|CPVC Caps x 2|2|
+|Teflon tape|2|
+|Ball valves x 8|10|
+|Threaded valve x 1|15|
+|Manometer x 4|45|
+|Union nut x 5|5|
+|Tube-cpvc male-female adapters|3|
+|Compressor|80|
+|Wood panel|3|
+|Lug/Handles x 4|10|
+|Cooler|2|
+|absorbent (depends on the size) 25 kg|6|
+|Steel nets x 6|36|
+|Cement x 1 can|3|
+|Transparent hose x meter|1|
+|Filters (sheet) m2|5|
+|Total|283|
+<br /><br />
+
+Table 5.- Mechanical-electrical respirator
+
+|Equipment/Material|(USD)|
+|:---:||:---:|
+|SMC|120|
+|Arduino Mega|20|
+|Wifi Module|8|
+|Driver A4988|1.5|
+|12V power supply|10|
+|Nema 17 stepper motor|9.2|
+|3/8" screw stud|25|
+|3/8" bearings|3|
+|3/8" nuts|3|
+|M4 screws|3|
+|AMBU|26|
+|3-D printing|11|
+|Protoboard|4|	
+|Total|238.7|
+<br /><br />
+
+These costs will decrease in environments like industrial production lines. <br />
+In addition, only the presented mechanical-electric respirator is at least twice cheaper than the cheapest model of fans for this item in industrial production, and the fan shown online does not include an oxygen generation capacity or allow working under the appropriate conditions. <br />
+For air-assisted breathing with concentrated oxygen, however it is smaller the cheapest model.  
+![alt text](https://m.alibaba.com/amp/product/60776944726.html)<br />
+
+## Improvements
+As part of any project we are continually improving.<br />
+We have decided to include the main improvements in process that we are making.<br />
+Adaptability for other compression systems, an example would be the compressible accordion type container, among others.<br /><br />
+Conceptual example:<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_electrical_improvements.png?raw=true)<br />
+
+Where:<br />
+1.	Mechanical-electric respirator presented.<br />
+2.	Adaptation to accordion type respirator.<br /><br />
+
+Oxygen concentrator.<br />
+	•	Automation of the oxygen generation process and emergency process.<br />
+	•	Increase in the concentration of oxygen generated during the process.<br /><br />
+
+Mechanical-electric respirator<br />
+	•	System capable of adaptation in case of replacement of the AMBU respirator.<br />
+	•	System with capacity of adaptation for infants.<br />
+	•	Cover the replacement of total breathing for the patient.<br />
+		o	Improvements in the control system for total breathing.<br />
+		o	Incorporation of new sensors.<br />
+		o	Technical manual for the implementation of physical components-connection.<br />
+	•	Updating of software-control system via internet.<br /><br />
+
+Mask<br />
+	•	Include other models of mask for 3-D craft printing.<br /><br />
+
+Medical operation<br />
+	•	Include manual of medical operation for invasive cases.<br /><br />
+
+Strengthen cloud platform.<br />
+	o	Online channel with the machine.<br />
+	o	Robust access security system.<br />
+	o	Include patient sensors.<br />
+	o	Improved dashboard for patients / technicians.<br />
+	o	Analytics.<br />
+			Improvement in the control system control cycle.<br />
+			Patient regulation.<br /><br />
+
+Improvements in long-term vision.<br />
+
+Mobile app.<br /><br />
+Oxygen concentrator<br />
+	•	Physical reduction of the oxygen generation process.<br />
+	•	Change of materials for the oxygen generation process.<br /><br />
+Complete Solution<br />
+	•	Machine operation configuration from portable devices.<br />
+	•	Smart system.<br />
+	•	Data Lake.<br />
+
+## Conclusion
+
+With all these investigations, iterative calculations and constant design modifications, we obtained a first prototype of a partial artificial respirator that: <br />
+|Point|To consider|Status|Comments|
+|:---:||:---:||:---:||:---:|
+|1|It must be built with common materials and access to industrial production lines.|Done|Electrical control devices are easily accessible for production lines.|
+|2|Comply with medical specifications.|Done|Concentrated oxygen free of impurities through filters.|Control system for respiratory regulation and medical parameters.
+System with manual configuration capacity.
+Sensitivity to expiration.|
+|3|insurance|Done|As long as it is in a box and out of the reach of children. Non-toxic materials.|
+|4|Can be decontaminated, cleaned and reused.|Done|Being segmented, it allows quick disarmament.|
+|5|Lower monetary cost compared to a common breathing system.|Done|| 
+|6|Simple to build, maintain and upgrade.|Done|Few parts, segmented and easy to replace. Update online.|
+|7|Scalable in improvements.|Done|Module-based design with quick installation and adaptation.|
+<br /><br />
+This solution is made up by:<br />
+1.	Oxygen concentrator.<br />
+2.	Mechanical-electric respirator. (Design, motor, valves, arduino and accessories, sensors and control system).<br />
+3.	Mask.<br /><br />
+We also include a user manual and include annexes to support what is presented in this development.<br />
+Document subject to modifications and updates.<br />
+
+## References
+[1] https://www.msn.com/en-in/finance/news/who-chief-says-covid-19-enemy-against-humanity-as-global-cases-top-200000/ar-BB11nXqI
+[2] https://www.nytimes.com/2020/02/29/health/coronavirus-preparation-united-states.html
+[3] http://www.hydrogencarsnow.com/index.php/hydrogen-from-water/
+[4] https://www.sciencedirect.com/science/article/pii/B978012812036100007X
+[5] https://www.familyhandyman.com/plumbing/boost-low-water-pressure-in-your-house/
+[6] http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
+[7] https://www.ijser.org/researchpaper/Oxygen-Separation-from-Air-Using-Zeolite-Type-5A.pdf
+[8] https://healthfully.com/o2-cylinder-hydrostatic-test-requirements-7482823.html ; https://www.astm.org/Standards/G175.htm
+[9] https://www.engineeringtoolbox.com/cpvc-pipes-pressures-d_240.html
+[10] https://web.archive.org/web/20140907211639/http://www.algalita.org/blog/?p=3740
+[11] Ishtiaq Ali, Muhammad (2011). Microbial degradation of polyvinyl chloride plastics (PDF) (PhD). Quaid-i-Azam University. pp. 45–46 & 122. 
+[12] Costner, Pat (2005) "Estimating Releases and Prioritizing Sources in the Context of the Stockholm Convention" Archived 27 September 2007 at the Wayback Machine, International POPs Elimination Network, Mexico.
+[13] International Agency for Research on Cancer (IARC). "Vinyl chloride, polyvinyl chloride, and vinyl chloride-vinyl acetate copolymers." Vol 19, 1979. IARC. "Vinyl chloride." Supplement 7, 1987. Lyon.
+[14] https://www.engineeringtoolbox.com/thermoplastic-pipes-temperature-strength-d_794.html
+[15] Michael C.K. Khoo. Physiological Control Systems: Analysis, Simulation, and Estimation, segunda edición. The Institute of Electrical and Electronics Engineers, Inc. Publicado en 2018 por John Wiley & Sons, Inc. pp 31-61.
+[16] https://pubmed.ncbi.nlm.nih.gov/16053945/
+
+
 
 
 
