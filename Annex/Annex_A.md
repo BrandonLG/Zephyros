@@ -75,7 +75,7 @@ Table 2. - Basic programming of the mechanical fan<sup>5</sup>.
 |Graduate with pulse oximetry (% blood oxygen). Goal to carry 92% or more; Goal less than 50%.|
 |Breathing frequency: 12-16 breaths per minute|
 |Peak flow, inspiratory time and I:E ratio: Controls how fast the VT is delivered or how long the programmed inspiratory pressure is delivered|
-|Flow wave pattern. See table 4. Square, decelerated, sinusoidal|
+|Flow wave pattern. See table 4. Square, decelerated, sinusoidal|<br />
 
 Tidal Volume / Running Air Volume (VT): 6 - 8 cc (ml) of volume per kilogram of ideal weight will be programmed at the beginning.<br /><br />
 The ideal weight calculation will be made with the formula shown in Table 3 if the patient's weight is not known. The programmed volume should not exceed 35 cm of peak inspiratory negative pressure to avoid complications such as:<br />
@@ -85,8 +85,7 @@ Table 3. - Calculation of ideal weight (PI).
 |Ideal Weight|
 |:---:|
 |Man 50 + 0.91 [Height (cm) - 152.4]|
-|Female 45 + 0.91 [Height (cm) - 152.4]|
-
+|Female 45 + 0.91 [Height (cm) - 152.4]|<br />
 
 Respiratory rate: will start with a respiratory rate of 12 - 16 breaths per minute. For the regularization of this parameter, the calculation of the minute volume (VM) that is given by the relation should be considered:<br />
 VM = FR x VT        Eq.1
@@ -102,7 +101,7 @@ Table 4. - Flow wave pattern.
 |:---:|
 |a) Constant flow or square wave: it delivers the volume in less time but generates more pressure in the airway than the others.|
 |b) Decreasing or descending ramp flow: it generates a higher airway pressure at the beginning and an almost equal alveolar pressure; it distributes the tidal volume better, also promotes a longer inspiratory time at the expense of expiratory time.|
-|c) Sine flow: it distributes the flow similar to the previous one but increases the inspiratory time even more, some authors believe that it is the closest thing to the physiological one.|
+|c) Sine flow: it distributes the flow similar to the previous one but increases the inspiratory time even more, some authors believe that it is the closest thing to the physiological one.|<br />
 
 Inspiratory Time and I: E Ratio: Inspiratory time is regulated taking into account how long it takes the patient to deliver the programmed volume or pressure. In addition, it should be noted that it is not too short to generate discomfort in the patient, nor too long that it hinders the time to expire and generates auto PEEP<sup>2</sup> as it cannot complete the exit of the gas supplied during inspiration.<br />
 
@@ -126,7 +125,7 @@ Table 5. - Criteria for initiating weaning.
 |:---:|
 |Hemodynamic stability.|
 |FiO2 less than 0.5|
-|PEEP less than 5cm H2O (0.071 psi).|
+|PEEP less than 5cm H2O (0.071 psi).|<br /><br />
 
 Patients will be classified into three different categories according to the ease of weaning as shown in Table 6 below.<br /><br />
 
@@ -135,7 +134,7 @@ Table 6. - Classification of weaning according to process.
 |:---:|
 |Simple weaning : Weaning and extubation successful on the first attempt without complications.|
 |Difficult weaning: failure on the first attempt. Requires up to 3 separate attempts or 7 days for processing.|
-|Prolonged weaning: At least three previous attempts or 7 days for the process.|
+|Prolonged weaning: At least three previous attempts or 7 days for the process.|<br />
 
 ## Sources
 1. Balcells J. Monitorización de la función respiratoria: curvas de presión, volumen y flujo. An Pediatr. 2003;59:252-85.        
