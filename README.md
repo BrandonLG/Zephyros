@@ -6,15 +6,21 @@ This is under non-working time in our free time.
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Zephyros_explanation.JPG?raw=true)
 
 ## Team <br />
-Engineering <br />
-Abel Geovanny Loera – Linkedin – https://www.linkedin.com/in/abel-geovanny-loera-navarro-a63542123 <br />
+Mechanical-Electrical Engineering and Render design <br />
+Abel Geovanny Loera – Linkedin – https://www.linkedin.com/in/abel-geovanny-loera-navarro-a63542123 <br /><br />
+
+Process engineering, Data Science, Data Engineer, Data Architect and Project Management<br />
 Brandon F. Loera – Linkedin – https://www.linkedin.com/in/brandon-f-loera-ba519ab7 <br /> <br />
+
 Medicine <br />
 María Jacqueline Martínez – jacquelinemtz_84@Outlook.es <br /> <br />
+
 Legal <br />
 Hannia Loera – Linkedin - https://www.linkedin.com/in/hannia-melisa-loera-garcia-2a6779171 <br /> <br />
+
 Diffusion – Marketing – MedMark <br />
 Perla Elianne Garza – Linkedin – https://www.linkedin.com/in/perla-elianne-garza-17361a15a <br /> <br />
+
 Collaborators <br />
 Abel Loera – Linkedin – https://www.linkedin.com/in/abel-loera-54841050 <br />
 Feliciano Loera – Linkedin – https://www.linkedin.com/in/feliciano-loera-18232054 <br /> <br />
