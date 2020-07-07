@@ -90,7 +90,7 @@ According to the theory we will be working at pressures between 45 and 115 psi (
 It seems to be dangerous but the water you have in your house is between 40 and 80 psi maximum, so we will be working at relatively similar pressures but with gases [5]. <br />
 Another factor to consider is the temperatures of the process and the environment around you, however, the temperature range of planet Earth on its surface ranges from -85 ° C (-117.4 ° F) to almost 60 ° C (140 ° F) [6] . <br />
 And for the process, we will be working under the shade at a temperature similar to 25 ° C (77 ° F), however, the temperature of your home and region may be different from ours.
-Note: See Annex C for the safety data sheets of the chemical products involved in the process. <br />
+Note: See Annex C for the safety data sheets of the chemical products involved in the process. <br /><br />
 Table 1. - Process production by type of absorber diameter. Oxygen produced between 60 - 80% concentrations with zeolite [7]. <br />
 |Selected Diameter (inch)|Length (inch)|Liters of oxygen / minute|Kg of zeolite|Bucket or container of cold water (gallons)|Maximum tolerable pressure [1] (PSI) 40|Maximum tolerable pressure [1] (PSI) 80|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -101,7 +101,7 @@ Table 1. - Process production by type of absorber diameter. Oxygen produced betw
 <br />
 Note: Table 1 shows the "selected diameter" column which is the diameter of the absorbers. The calculations are approximate theoretical. <br />
 The amount of liters of oxygen depends on the flow or flow of the compressor you use. <br />
-For a selected diameter of eight inches with that amount of liters of oxygen and a compressor 6 Hp compressed air flow 9 SCFM (262 L / min). <br />
+For a selected diameter of eight inches with that amount of liters of oxygen and a compressor 6 Hp compressed air flow 9 SCFM (262 L / min). <br /><br />
  
 Important:
 This process does not generate oxygen at high pressures (150 psi onwards).<br />
@@ -112,10 +112,72 @@ See Annex D for further indications on the proper use of oxygen.<br />
 
 ## Selection of the material
 To make the oxygen concentrator we selected CPVC since its maximum operating pressure [9] allows us to carry out the process, it is easy to find and it is less expensive than other materials. <br />
-Regarding the environment, its absorption capacity of POPs pollutants is lower than other polymers such as: HDPE, LDPE and PP [10] which implies a significant reduction in pollutants accumulation inside the food chain once the materials are discarded and taken away as garbage, however, we strongly encourage a recycling attitude. <br />
+Regarding the environment, its absorption capacity of POPs pollutants is lower than other polymers such as: HDPE, LDPE and PP [10] which implies a significant reduction in pollutants accumulation inside the food chain once the materials are discarded and taken away as garbage, however, we strongly encourage a recycling attitude. <br /><br />
 Another important point to mention about CPVC is its degradation. <br />
 Degradation can be mad by biological entities like fungi "Aspergillus fumigatus", "Phanerochaete chrysosporium", "Lentinus tigrinus", "Aspergillus niger" and "Aspergillus sydowii" which consume the CPVC [11] On the other hand, if CPVC is burned it will generate compounds like dioxins [12] which are harmful to the human body due to the chemical compound “vinyl chloride” which is a known carcinogen [13]. <br />
-For all of the above, we recommend to use stainless steel if you have the appropriate budget. <br />
+For all of the above, we recommend to use stainless steel if you have the appropriate budget. <br /><br />
+Table 2. - Maximum pressure of the CPVC according to the internal diameter. <br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/CPVC_Operational_properties.jpg?raw=true)<br />
+
+However, it is also necessary to consider how does the temperature affects the material, in the case of CPVC it is a thermoplastic, which means heat affects the pressure that the material can withstand and heat is closely related with temperature. <br />
+Thus, the relationship between the pressure which the material can withstand and the temperature of the process/environment can be seen within the following table [14]: <br /><br />
+Table 3. - Stratus factor according to temperature for different thermoplastics.<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/CPVC_temperature_properties.jpg?raw=true)<br />
+
+By using the values of table 3 you can calculate the maximum operating pressure based on the temperature of the place where you live.<br />
+For example, we selected 3-inch tubes for absorption, elimination of H2O- CO2, and pipeline which will function as an oxygen container, all or using the Model 80 CPVC; the maximum temperature of our region is 45 °C (113 °F), therefore the CPVC can withstand a maximum pressure of: <br />
+370 psi * 0. 8 = 296 psi <br />
+Therefore, we recommend that if you want to produce large amounts of oxygen using a larger diameter to 8 inches then change for another material such as stainless steel, this also means that you must change the valves, connecting tubes, elbows and T-type connectors, among other components. <br /><br />
+
+## List of materials
+1 air compressor. 
+It must be less or equal to 6 HP and with a flow capacity less or equal to 9 SCFM since this power and flow would be for a tube equal or greater than 8 inches in diameter. However, if you have a compressor with these characteristics then use it.
+Optional: 1 refrigerator tank for the compressor.
+ 
+CPVC. (Yellow color).
+2 tubes. They can be of type 40 or 80. For both tubes, the same diameter. Use table 1.
+1 tube 1 1/2 inch in diameter and 4 inches long. Purge / waste.
+1 tube 3 inches in diameter and 12 inches long. Water and CO2. Eliminator.
+1 tube 6 inches in diameter and 60 inches long. (Container for oxygen). Capacity of 27.8 L.
+9 1/2 inch T-type connectors.
+5 for pipe joints and 4 for manometers.
+  Way of union with the manometers ->  
+5 1/2 inch elbow connector.
+ 
+8 1/2 inch ball-type valves.
+ 
+1 1/2 inch pressure regulating valve.
+  
+5 Nut-union.
+Tube-cpvc male-female adapters.
+3 meters tube 1 /2 inch in diameter to make connections.
+Diameter reductors.
+ 
+1 CPVC - Serpentine connector.
+2 CPVC caps of the selected diameter for absorbers.
+Bite union hose.
+1 Teflon tape or paste.
+3 manometers with measurement capacity up to 150 psi.
+ 
+1 manometer with measurement capacity up to 30 psi.
+ 
+1 meter of transparent hose to connect to the compressor inlet (the diameter depends on your compressor)
+ 
+1 container for cold water and the size must be according to the diameter selected in table 1.
+1 steel / aluminum serpentine.
+1 bag of ice to cool.
+4 round steel net that can be inserted into tubes with the selected diameter.
+2 net round steel 3 inches
+Note: Steel nets must have pores that are smaller in size than the absorbent to be used.
+ 
+1 can of clear CPVC cement that allows pressures between 180 and 250 psi.
+  
+Cooler.
+ 
+Absorbents.
+CMS (Carbon Molecular Sieve), activated carbon or Zeolite type 5A (if any). The latter can be bought from silica producers or agriculture providers. See table 1 for the specific weight you need inside the absorber and to that amount add 5 kg of absorbent. If you're going to produce your own activated carbon then multiply that amount by 1.3. For more information regarding absorbents see annex B.
+2 air filters between 4 and 0.01 microns.
+
 
 
 
