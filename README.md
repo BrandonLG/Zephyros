@@ -631,26 +631,23 @@ This solution is made up by:<br />
 We also include a user manual and include annexes to support what is presented in this development.<br />
 Document subject to modifications and updates.<br />
 
-+ ## References
-+ 1. https://www.msn.com/en-in/finance/news/who-chief-says-covid-19-enemy-against-humanity-as-global-cases-top-200000/ar-BB11nXqI
-+ 2. https://www.nytimes.com/2020/02/29/health/coronavirus-preparation-united-states.html
-+ 3. http://www.hydrogencarsnow.com/index.php/hydrogen-from-water/
-+ 4. https://www.sciencedirect.com/science/article/pii/B978012812036100007X
-+ 5. https://www.familyhandyman.com/plumbing/boost-low-water-pressure-in-your-house/
-+ 6. http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
-+ 7. https://www.ijser.org/researchpaper/Oxygen-Separation-from-Air-Using-Zeolite-Type-5A.pdf
-+ 8. https://healthfully.com/o2-cylinder-hydrostatic-test-requirements-7482823.html ; https://www.astm.org/Standards/G175.htm
-+ 9. https://www.engineeringtoolbox.com/cpvc-pipes-pressures-d_240.html
-+ 10. https://web.archive.org/web/20140907211639/http://www.algalita.org/blog/?p=3740
-+ 11. Ishtiaq Ali, Muhammad (2011). Microbial degradation of polyvinyl chloride plastics (PDF) (PhD). Quaid-i-Azam University. pp. 45–46 & 122. 
-+ 12. Costner, Pat (2005) "Estimating Releases and Prioritizing Sources in the Context of the Stockholm Convention" Archived 27 September 2007 at the Wayback Machine, International POPs Elimination Network, Mexico.
-+ 13. International Agency for Research on Cancer (IARC). "Vinyl chloride, polyvinyl chloride, and vinyl chloride-vinyl acetate copolymers." Vol 19, 1979. IARC. "Vinyl chloride." Supplement 7, 1987. Lyon.
-+ 14. https://www.engineeringtoolbox.com/thermoplastic-pipes-temperature-strength-d_794.html
-+ 15. https://pubmed.ncbi.nlm.nih.gov/16053945/
-+ 16. Michael C.K. Khoo. Physiological Control Systems: Analysis, Simulation, and Estimation, segunda edición. The Institute of Electrical and Electronics Engineers, Inc. Publicado en 2018 por John Wiley & Sons, Inc. pp 31-61.
-
-
-
+## References
+1. https://www.msn.com/en-in/finance/news/who-chief-says-covid-19-enemy-against-humanity-as-global-cases-top-200000/ar-BB11nXqI
+2. https://www.nytimes.com/2020/02/29/health/coronavirus-preparation-united-states.html
+3. http://www.hydrogencarsnow.com/index.php/hydrogen-from-water/
+4. https://www.sciencedirect.com/science/article/pii/B978012812036100007X
+5. https://www.familyhandyman.com/plumbing/boost-low-water-pressure-in-your-house/
+6. http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
+7. https://www.ijser.org/researchpaper/Oxygen-Separation-from-Air-Using-Zeolite-Type-5A.pdf
+8. https://healthfully.com/o2-cylinder-hydrostatic-test-requirements-7482823.html ; https://www.astm.org/Standards/G175.htm
+9. https://www.engineeringtoolbox.com/cpvc-pipes-pressures-d_240.html
+10. https://web.archive.org/web/20140907211639/http://www.algalita.org/blog/?p=3740
+11. Ishtiaq Ali, Muhammad (2011). Microbial degradation of polyvinyl chloride plastics (PDF) (PhD). Quaid-i-Azam University. pp. 45–46 & 122. 
+12. Costner, Pat (2005) "Estimating Releases and Prioritizing Sources in the Context of the Stockholm Convention" Archived 27 September 2007 at the Wayback Machine, International POPs Elimination Network, Mexico.
+13. International Agency for Research on Cancer (IARC). "Vinyl chloride, polyvinyl chloride, and vinyl chloride-vinyl acetate copolymers." Vol 19, 1979. IARC. "Vinyl chloride." Supplement 7, 1987. Lyon.
+14. https://www.engineeringtoolbox.com/thermoplastic-pipes-temperature-strength-d_794.html
+15. https://pubmed.ncbi.nlm.nih.gov/16053945/
+16. Michael C.K. Khoo. Physiological Control Systems: Analysis, Simulation, and Estimation, segunda edición. The Institute of Electrical and Electronics Engineers, Inc. Publicado en 2018 por John Wiley & Sons, Inc. pp 31-61.
 
 
 
