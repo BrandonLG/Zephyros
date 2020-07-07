@@ -1,6 +1,6 @@
 ## Linear mechanical modeling during respiration
 Objective: Obtain a transfer function that can be used in a controller for the non-invasive respirator.<br />
-![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_model_of_breathing_lungsA.jpg?raw=true)<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_model_of_breathing_lungs.jpg?raw=true)<br />
 Image 1. - Diagram of the mechanical model of breathing to the lungs.<br /><br />
 
 We first need a descriptive linear model of the mechanics of a lung. Air channels are divided into two categories:<br />
