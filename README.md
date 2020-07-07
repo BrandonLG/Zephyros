@@ -92,5 +92,10 @@ Another factor to consider is the temperatures of the process and the environmen
 And for the process, we will be working under the shade at a temperature similar to 25 ° C (77 ° F), however, the temperature of your home and region may be different from ours.
 Note: See Annex C for the safety data sheets of the chemical products involved in the process.
 Table 1. - Process production by type of absorber diameter. Oxygen produced between 60 - 80% concentrations with zeolite [7].
+|Selected Diameter (inch)|Length (inch)|Liters of oxygen / minute|Kg of zeolite|Bucket or container of cold water (gallons)|Maximum tolerable pressure [1] (PSI) 40|Maximum tolerable pressure [1] (PSI) 80|
+|8|33|27.2|40|30.00|160.00|250.00|
+|6|33|20.4|30|22.50|180.00|280.00|
+|4|33|13.6|twenty|15.00|220.00|320.00|
+|3|33|10.2|fifteen|11.25|260.00|370.00|
 
 
