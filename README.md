@@ -96,7 +96,26 @@ Table 1. - Process production by type of absorber diameter. Oxygen produced betw
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |8|33|27.2|40|30.00|160.00|250.00|
 |6|33|20.4|30|22.50|180.00|280.00|
-|4|33|13.6|twenty|15.00|220.00|320.00|
-|3|33|10.2|fifteen|11.25|260.00|370.00|
+|4|33|13.6|20|15.00|220.00|320.00|
+|3|33|10.2|15|11.25|260.00|370.00|
+<br />
+Note: Table 1 shows the "selected diameter" column which is the diameter of the absorbers. The calculations are approximate theoretical. <br />
+The amount of liters of oxygen depends on the flow or flow of the compressor you use. <br />
+For a selected diameter of eight inches with that amount of liters of oxygen and a compressor 6 Hp compressed air flow 9 SCFM (262 L / min). <br />
+ 
+Important:
+This process does not generate oxygen at high pressures (150 psi onwards).<br />
+A common oxygen tank has a pressure of approximately 600 psi and is made of industrial steel with ASTM standard specification [8].<br />
+Never leave the oxygen concentrator in the sun or near heat sources.<br />
+It should not be near the reach of children.<br />
+See Annex D for further indications on the proper use of oxygen.<br />
+
+## Selection of the material
+To make the oxygen concentrator we selected CPVC since its maximum operating pressure [9] allows us to carry out the process, it is easy to find and it is less expensive than other materials. <br />
+Regarding the environment, its absorption capacity of POPs pollutants is lower than other polymers such as: HDPE, LDPE and PP [10] which implies a significant reduction in pollutants accumulation inside the food chain once the materials are discarded and taken away as garbage, however, we strongly encourage a recycling attitude. <br />
+Another important point to mention about CPVC is its degradation. <br />
+Degradation can be mad by biological entities like fungi "Aspergillus fumigatus", "Phanerochaete chrysosporium", "Lentinus tigrinus", "Aspergillus niger" and "Aspergillus sydowii" which consume the CPVC [11] On the other hand, if CPVC is burned it will generate compounds like dioxins [12] which are harmful to the human body due to the chemical compound “vinyl chloride” which is a known carcinogen [13]. <br />
+For all of the above, we recommend to use stainless steel if you have the appropriate budget. <br />
+
 
 
