@@ -18,16 +18,18 @@ Abel Loera – Linkedin – https://www.linkedin.com/in/abel-loera-54841050 <br 
 Feliciano Loera – Linkedin – https://www.linkedin.com/in/feliciano-loera-18232054 <br /> <br />
 
 Document control versions <br />
-Version	Date <br />
-1.-	27th March of 2020 <br />
-2.-	29th March of 2020 <br />
-3.-	1st April of 2020 <br />
-4.-	3rd April of 2020 <br />
-5.-	6th April of 2020 <br /> <br />
-	
+|Version|Date|
+|:---:||:---:|
+|1|27th March of 2020|
+|2|29th March of 2020|
+|3|1st April of 2020|
+|4|3rd April of 2020|
+|5|6th April of 2020|
+<br />
+
 # Introduction and scope
-Currently the Covid-19 pandemic has become an "enemy of humanity"[1] according to the World Health Organization. <br />
-Given this situation, we have seen that the main public health problem is in the number of artificial respirators and masks available [2]. <br />
+Currently the Covid-19 pandemic has become an "enemy of humanity"<sup>1</sup> according to the World Health Organization. <br />
+Given this situation, we have seen that the main public health problem is in the number of artificial respirators and masks available<sup>2</sup>. <br />
 So we decided to work on finding a solution and develop a prototype that can be done by personal and industrial approach.<br />
 As part of the good practices to be able to solve a problem, we must first identify the main parameters to be controlled. 
 With this in mind we made an investigation on this topic. See Annex A. <br />
@@ -78,7 +80,7 @@ There are many procedures to obtain oxygen, however, in order to select a proced
 •	Simple to operate. <br />
 •	Sufficient oxygen production. <br /><br />
 Within these procedures we found two procedures as possible candidates to develop, the first is a process based on gas pressures and absorbent material (PSA) and the second based on electrolysis. <br />
-Electrolysis, without the appropriate materials, is costly at the electrical energy level, produces little oxygen and is quite unsafe since it generates gaseous hydrogen [3] and it is highly flammable and in appropriate conditions is explosive [4]. <br />
+Electrolysis, without the appropriate materials, is costly at the electrical energy level, produces little oxygen and is quite unsafe since it generates gaseous hydrogen <sup>3</sup> and it is highly flammable and in appropriate conditions is explosive <sup>4</sup>. <br />
 Therefore we select the pressure process called PSA. <br />
 Note: See Annex B for the theory behind the PSA. <br />
 
@@ -114,12 +116,12 @@ You can connect a compressor to the Val –F - 08 valve tubing outlet to compres
 
 ## Process indication
 According to the theory we will be working at pressures between 45 and 115 psi (4 to 8 bar) maximum. The air around us is at 14.7 psi, therefore we will be working with pressures higher than atmospheric. <br />
-It seems to be dangerous but the water you have in your house is between 40 and 80 psi maximum, so we will be working at relatively similar pressures but with gases [5]. <br />
-Another factor to consider is the temperatures of the process and the environment around you, however, the temperature range of planet Earth on its surface ranges from -85 ° C (-117.4 ° F) to almost 60 ° C (140 ° F) [6] . <br />
+It seems to be dangerous but the water you have in your house is between 40 and 80 psi maximum, so we will be working at relatively similar pressures but with gases <sup>5</sup>. <br />
+Another factor to consider is the temperatures of the process and the environment around you, however, the temperature range of planet Earth on its surface ranges from -85 ° C (-117.4 ° F) to almost 60 ° C (140 ° F)<sup>6</sup> . <br />
 And for the process, we will be working under the shade at a temperature similar to 25 ° C (77 ° F), however, the temperature of your home and region may be different from ours.
 Note: See Annex C for the safety data sheets of the chemical products involved in the process. <br /><br />
-Table 1. - Process production by type of absorber diameter. Oxygen produced between 60 - 80% concentrations with zeolite [7]. <br />
-|Selected Diameter (inch)|Length (inch)|Liters of oxygen / minute|Kg of zeolite|Bucket or container of cold water (gallons)|Maximum tolerable pressure [1] (PSI) 40|Maximum tolerable pressure [1] (PSI) 80|
+Table 1. - Process production by type of absorber diameter. Oxygen produced between 60 - 80% concentrations with zeolite<sup>7</sup>. <br />
+|Selected Diameter (inch)|Length (inch)|Liters of oxygen / minute|Kg of zeolite|Bucket or container of cold water (gallons)|Maximum tolerable pressure (PSI) 40|Maximum tolerable pressure (PSI) 80|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 |8|33|27.2|40|30.00|160.00|250.00|
 |6|33|20.4|30|22.50|180.00|280.00|
@@ -132,22 +134,22 @@ For a selected diameter of eight inches with that amount of liters of oxygen and
  
 Important:
 This process does not generate oxygen at high pressures (150 psi onwards).<br />
-A common oxygen tank has a pressure of approximately 600 psi and is made of industrial steel with ASTM standard specification [8].<br />
+A common oxygen tank has a pressure of approximately 600 psi and is made of industrial steel with ASTM standard specification<sup>8</sup>].<br />
 Never leave the oxygen concentrator in the sun or near heat sources.<br />
 It should not be near the reach of children.<br />
 See Annex D for further indications on the proper use of oxygen.<br />
 
 ## Selection of the material
-To make the oxygen concentrator we selected CPVC since its maximum operating pressure [9] allows us to carry out the process, it is easy to find and it is less expensive than other materials. <br />
-Regarding the environment, its absorption capacity of POPs pollutants is lower than other polymers such as: HDPE, LDPE and PP [10] which implies a significant reduction in pollutants accumulation inside the food chain once the materials are discarded and taken away as garbage, however, we strongly encourage a recycling attitude. <br /><br />
+To make the oxygen concentrator we selected CPVC since its maximum operating pressure<sup>9</sup> allows us to carry out the process, it is easy to find and it is less expensive than other materials. <br />
+Regarding the environment, its absorption capacity of POPs pollutants is lower than other polymers such as: HDPE, LDPE and PP<sup>10</sup> which implies a significant reduction in pollutants accumulation inside the food chain once the materials are discarded and taken away as garbage, however, we strongly encourage a recycling attitude. <br /><br />
 Another important point to mention about CPVC is its degradation. <br />
-Degradation can be mad by biological entities like fungi "Aspergillus fumigatus", "Phanerochaete chrysosporium", "Lentinus tigrinus", "Aspergillus niger" and "Aspergillus sydowii" which consume the CPVC [11] On the other hand, if CPVC is burned it will generate compounds like dioxins [12] which are harmful to the human body due to the chemical compound “vinyl chloride” which is a known carcinogen [13]. <br />
+Degradation can be mad by biological entities like fungi "Aspergillus fumigatus", "Phanerochaete chrysosporium", "Lentinus tigrinus", "Aspergillus niger" and "Aspergillus sydowii" which consume the CPVC<sup>11</sup>. On the other hand, if CPVC is burned it will generate compounds like dioxins<sup>12</sup> which are harmful to the human body due to the chemical compound “vinyl chloride” which is a known carcinogen<sup>13</sup>. <br />
 For all of the above, we recommend to use stainless steel if you have the appropriate budget. <br /><br />
 Table 2. - Maximum pressure of the CPVC according to the internal diameter. <br />
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/CPVC_Operational_properties.jpg?raw=true)<br />
 
 However, it is also necessary to consider how does the temperature affects the material, in the case of CPVC it is a thermoplastic, which means heat affects the pressure that the material can withstand and heat is closely related with temperature. <br />
-Thus, the relationship between the pressure which the material can withstand and the temperature of the process/environment can be seen within the following table [14]: <br /><br />
+Thus, the relationship between the pressure which the material can withstand and the temperature of the process/environment can be seen within the following table<sup>14</sup>: <br /><br />
 Table 3. - Stratus factor according to temperature for different thermoplastics.<br />
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/CPVC_temperature_properties.jpg?raw=true)<br />
 
@@ -208,7 +210,7 @@ Do not wash or get wet the absorbent, doing this could cause a decreasing effect
 
 ## Absorbent preparation
 IF you use CMS or specialized activated carbon for gas separation then go to step 6 of the procedure in this section else you will need to prepare your own adsorbent. <br />
-In our case we use zeolite, which is very common to use in aquariums. If you want to use activated carbon then see the procedure to follow in the following link: ![alt text](https://www.wikihow.com/Make-Activated-Charcoal) <br />
+In our case we use zeolite, which is very common to use in aquariums. If you want to use activated carbon then see the procedure to follow in the following link: https://www.wikihow.com/Make-Activated-Charcoal <br />
 For this we buy the necessary kg of zeolite according to the amount of oxygen we want to produce by a factor of 1.3 at the required weight (see table 1). <br /><br />
 Materials. <br />
 •	Absorbent. <br />
@@ -355,7 +357,7 @@ Where:<br />
 Important:<br />
 Parts 6, 7 and 8 are glued together when buying it.<br />
 It can also be adapted to infants by replacing a smaller manual respirator and one of the flattening plate (4) by adapting the axis (2).<br />
-According to the literature, the oxygen flow at its maximum concentration when supplied to the AMBU ventilator represents a flow of 10 L per minute towards the entrance of the AMBU and presents the highest concentration points when you decrease the respiratory cycle from 1 minute to half a minute [16].<br />
+According to the literature, the oxygen flow at its maximum concentration when supplied to the AMBU ventilator represents a flow of 10 L per minute towards the entrance of the AMBU and presents the highest concentration points when you decrease the respiratory cycle from 1 minute to half a minute<sup>15</sup>.<br />
 Since the highest volumetric flow of concentrated oxygen is 10 L per minute for the most extreme cases where the concentration is the highest possible indefinitely, if you have a 100 L tank you will be without oxygen in ten minutes while maintaining that flow.<br />
 According to the literature, between 15 and 20 minutes the patient will have to breathe oxygen at the highest concentration possible, after this point the oxygen flow will decrease until reaching fifty percent. The oxygen container presented in the oxygen concentrator has a capacity of 27.8 L. This means if the container is full you will have concentrated oxygen for less than 2.5 minutes when the flow is at its maximum.<br />
 When the pressure of the container equals the pressure of the environment the oxygen will stop flowing at the necessary pressure and it will not reach the machine.<br />
@@ -404,7 +406,7 @@ Even with the transfer function proposed in annex E equation Eq. 6, we would hav
 
 ## Control system conclusion
 
-We have a device that can provide concentrated oxygen at a certain respiratory frequency for non-invasive cases that complies with the literature [15].<br />
+We have a device that can provide concentrated oxygen at a certain respiratory frequency for non-invasive cases that complies with the literature<sup>16</sup>.<br />
 There should not be a big time gap between the control system and its implementation since reaction time for the valves and the engine is pretty quick.<br />
 Furthermore, by solving the equation Eq. 1 and Eq. 2 of Annex E, you could estimate the pressure of the alveolus and the air flow that the pulmonary alveolus would receive. This will be very useful for a total breathing system.<br />
 Finally, this control system is insufficient to regulate total respiration. In order to accomplish this we need different sensors and a new control system.<br /><br />
@@ -553,7 +555,7 @@ Table 5.- Mechanical-electrical respirator
 These costs will decrease in environments like industrial production lines. <br />
 In addition, only the presented mechanical-electric respirator is at least twice cheaper than the cheapest model of fans for this item in industrial production, and the fan shown online does not include an oxygen generation capacity or allow working under the appropriate conditions. <br />
 For air-assisted breathing with concentrated oxygen, however it is smaller the cheapest model.  
-![alt text](https://m.alibaba.com/amp/product/60776944726.html)<br />
+https://m.alibaba.com/amp/product/60776944726.html<br />
 
 ## Improvements
 As part of any project we are continually improving.<br />
@@ -627,23 +629,23 @@ This solution is made up by:<br />
 We also include a user manual and include annexes to support what is presented in this development.<br />
 Document subject to modifications and updates.<br />
 
-## References
-[1] https://www.msn.com/en-in/finance/news/who-chief-says-covid-19-enemy-against-humanity-as-global-cases-top-200000/ar-BB11nXqI
-[2] https://www.nytimes.com/2020/02/29/health/coronavirus-preparation-united-states.html
-[3] http://www.hydrogencarsnow.com/index.php/hydrogen-from-water/
-[4] https://www.sciencedirect.com/science/article/pii/B978012812036100007X
-[5] https://www.familyhandyman.com/plumbing/boost-low-water-pressure-in-your-house/
-[6] http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
-[7] https://www.ijser.org/researchpaper/Oxygen-Separation-from-Air-Using-Zeolite-Type-5A.pdf
-[8] https://healthfully.com/o2-cylinder-hydrostatic-test-requirements-7482823.html ; https://www.astm.org/Standards/G175.htm
-[9] https://www.engineeringtoolbox.com/cpvc-pipes-pressures-d_240.html
-[10] https://web.archive.org/web/20140907211639/http://www.algalita.org/blog/?p=3740
-[11] Ishtiaq Ali, Muhammad (2011). Microbial degradation of polyvinyl chloride plastics (PDF) (PhD). Quaid-i-Azam University. pp. 45–46 & 122. 
-[12] Costner, Pat (2005) "Estimating Releases and Prioritizing Sources in the Context of the Stockholm Convention" Archived 27 September 2007 at the Wayback Machine, International POPs Elimination Network, Mexico.
-[13] International Agency for Research on Cancer (IARC). "Vinyl chloride, polyvinyl chloride, and vinyl chloride-vinyl acetate copolymers." Vol 19, 1979. IARC. "Vinyl chloride." Supplement 7, 1987. Lyon.
-[14] https://www.engineeringtoolbox.com/thermoplastic-pipes-temperature-strength-d_794.html
-[15] Michael C.K. Khoo. Physiological Control Systems: Analysis, Simulation, and Estimation, segunda edición. The Institute of Electrical and Electronics Engineers, Inc. Publicado en 2018 por John Wiley & Sons, Inc. pp 31-61.
-[16] https://pubmed.ncbi.nlm.nih.gov/16053945/
++ ## References
++ 1. https://www.msn.com/en-in/finance/news/who-chief-says-covid-19-enemy-against-humanity-as-global-cases-top-200000/ar-BB11nXqI
++ 2. https://www.nytimes.com/2020/02/29/health/coronavirus-preparation-united-states.html
++ 3. http://www.hydrogencarsnow.com/index.php/hydrogen-from-water/
++ 4. https://www.sciencedirect.com/science/article/pii/B978012812036100007X
++ 5. https://www.familyhandyman.com/plumbing/boost-low-water-pressure-in-your-house/
++ 6. http://earthguide.ucsd.edu/eoc/special_topics/teach/sp_climate_change/p_planet_temp.html
++ 7. https://www.ijser.org/researchpaper/Oxygen-Separation-from-Air-Using-Zeolite-Type-5A.pdf
++ 8. https://healthfully.com/o2-cylinder-hydrostatic-test-requirements-7482823.html ; https://www.astm.org/Standards/G175.htm
++ 9. https://www.engineeringtoolbox.com/cpvc-pipes-pressures-d_240.html
++ 10. https://web.archive.org/web/20140907211639/http://www.algalita.org/blog/?p=3740
++ 11. Ishtiaq Ali, Muhammad (2011). Microbial degradation of polyvinyl chloride plastics (PDF) (PhD). Quaid-i-Azam University. pp. 45–46 & 122. 
++ 12. Costner, Pat (2005) "Estimating Releases and Prioritizing Sources in the Context of the Stockholm Convention" Archived 27 September 2007 at the Wayback Machine, International POPs Elimination Network, Mexico.
++ 13. International Agency for Research on Cancer (IARC). "Vinyl chloride, polyvinyl chloride, and vinyl chloride-vinyl acetate copolymers." Vol 19, 1979. IARC. "Vinyl chloride." Supplement 7, 1987. Lyon.
++ 14. https://www.engineeringtoolbox.com/thermoplastic-pipes-temperature-strength-d_794.html
++ 15. https://pubmed.ncbi.nlm.nih.gov/16053945/
++ 16. Michael C.K. Khoo. Physiological Control Systems: Analysis, Simulation, and Estimation, segunda edición. The Institute of Electrical and Electronics Engineers, Inc. Publicado en 2018 por John Wiley & Sons, Inc. pp 31-61.
 
 
 
