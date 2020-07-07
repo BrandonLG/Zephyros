@@ -12,16 +12,16 @@ The deviated volume is very small under normal conditions, however, as there is 
 To take these effects into account, we consider a deviation conformity called Cs in parallel to C_L and C_W.<br /><br />
 
 Where: <br />
-PaO = Inlet air pressure [=]  〖cmH〗_2 O<br />
-P_aw = Central air pressure [=]  〖cmH〗_2 O<br />
-P_A = Alveolus pressure [=]  〖cmH〗_2 O<br />
-P_pl = Pleural space pressure [=]  〖cmH〗_2 O<br />
-P_0 = Ambient pressure [=]  〖cmH〗_2 O<br />
-Cs = Diversion conformity [=]  L/(〖cmH〗_2 O)<br />
-C_L = Partial fraction of the lung [=]  L/(〖cmH〗_2 O)<br />
-C_W = Pectoral expansion [=]  L/(〖cmH〗_2 O)<br />
-R_C = Central / long flow resistance [=] (〖cmH〗_2 O)/L<br />
-R_P = Peripheral / small flow resistance [=] (〖cmH〗_2 O)/L<br />
+PaO = Inlet air pressure [=]  cmH2O<br />
+P_aw = Central air pressure [=]  cmH2O<br />
+P_A = Alveolus pressure [=]  cmH2O<br />
+P_pl = Pleural space pressure [=]  cmH2O<br />
+P_0 = Ambient pressure [=]  cmH2O<br />
+Cs = Diversion conformity [=]  L/(cmH2O)<br />
+C_L = Partial fraction of the lung [=]  L/(cmH2O)<br />
+C_W = Pectoral expansion [=]  L/(cmH2O)<br />
+R_C = Central / long flow resistance [=] (cmH2O)/L<br />
+R_P = Peripheral / small flow resistance [=] (cmH2O)/L<br />
 Q = Air flow [=]  L/min<br />
 Q_A = Flow delivered to the alveolus [=]  L/min<br />
 
@@ -57,11 +57,11 @@ With all of the above considerations we obtained a transfer function with the fo
 
 Considering the pulmonary factors presented on page 31 and substituting the equation Eq. 4 in the equation Eq. 6, we can calculate:<br />
 
-Cs = 0.005  L/(〖cmH〗_2 O)<br />
-C_L = 0.2  L/(〖cmH〗_2 O)<br />
-C_W = 0.2  L/(〖cmH〗_2 O)<br />
-R_C = 1 (〖cmH〗_2 O)/L<br />
-R_P = 0.5 (〖cmH〗_2 O)/L<br /><br />
+Cs = 0.005  L/(cmH2O)<br />
+C_L = 0.2  L/(cmH2O)<br />
+C_W = 0.2  L/(cmH2O)<br />
+R_C = 1 (cmH2O)/L<br />
+R_P = 0.5 (cmH2O)/L<br /><br />
 
 (Q(s))/(P_ao (s))=  ((s^2+420s))/{s^2+620s+4000}       Eq.6.1<br /><br />
 
