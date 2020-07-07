@@ -18,13 +18,15 @@ Abel Loera – Linkedin – https://www.linkedin.com/in/abel-loera-54841050 <br 
 Feliciano Loera – Linkedin – https://www.linkedin.com/in/feliciano-loera-18232054 <br /> <br />
 
 Document control versions <br />
+
 |Version|Date|
-|:---:||:---:|
+|:---:|:---:|
 |1|27th March of 2020|
 |2|29th March of 2020|
 |3|1st April of 2020|
 |4|3rd April of 2020|
 |5|6th April of 2020|
+
 <br />
 
 # Introduction and scope
