@@ -5,4 +5,4 @@ Being in the cloud it saves you a lot of time and effort, here you can find the 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/High_level_Architecture.png?raw=true)<br />
 Image 1. High level cloud architecture without modeling inside the cloud.
 
-Updating pending!!!
+Pending update!!!
