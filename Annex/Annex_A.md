@@ -2,61 +2,61 @@
 Here you will understand the main reasons of mechanical ventilation procedure.
 
 ## Introduction
-Mechanical ventilation is a resource of medical therapy used to give life support whose objective is to support or replace respiratory function until the total or partial reversal of the underlying problem that caused respiratory failure.
-The knowledge and understanding of physiological and pathophysiological processes together with the constant improvement of mechanical ventilators based on technological advances have improved the survival of patients in critical condition.
-Pulmonary ventilation physiology
-The lungs are elastic structures with resistance to volume expansion. Under normal conditions, the lung contains air inside it by positive pressure and external negative pressure in the pleural space.
-Under normal conditions, the lungs adjust to the chest walls. There is a volume level at which the lung tendency to contract and the tendency of the chest wall to expand are the same, this being the resting position of the respiratory system. This is known as "Residual Functional Capacity" (CFR).
-During inspiration (inhalation), muscular force overcomes lung and rib cage retraction, however, as the lungs fill with air, there comes a point where the elastic and muscular retraction forces equalize, making it impossible to incorporate more volume. To airspace. This phenomenon is known as "total lung capacity" (CPT).
-Expiration (exhaling) is a passive process induced by the elastic force of pulmonary retraction that ranges from CPT to CFR. By continuing to expel air to levels below the CFR, a pulmonary contraction is carried out, however, an elastic counter-force of expansion is necessary to prevent lung collapse by equating said expansion force with the muscular force, the residual volume (VR) is obtained, this means the lung cannot expelled any more air.
-Parameters that assess respiratory function
-See Image 1 along with the reading.
-Two types of lung volumes are divided into static and dynamic.
-Static lung volumes: They are the ones that measure the volume of gas in the different positions of the rib cage. There are four volumes and four capacities resulting from the sum of the previous ones
-Volumes
-Residual volume (VR): Volume contained in the lungs after a maximum expiration (approximately 1,200 ml).
-Tidal volume (CV): Mobilized volume at rest (approximately 500ml).
-Inspiratory Reserve Volume (VRI): volume that can be inspired after a normal inspiration (approximately 3,000ml = 3 L).
-Expiratory reserve volume (VRE): Volume that can be exhaled after a normal exhalation (approximately 1 100ml = 1.1 L).
-Capacities to consider for the machine
-Total Lung Capacity (CPT): Volume of gas contained in the lungs at maximum inspiration (approximately 5,800 ml).
-Vital Capacity (CV): Maximum exhaled gas volume one maximum inspiration (exhalation) (approximately 4,600 ml = 4.6 L).
-Inspiratory capacity (IC): Maximum inspired volume (approximately 3,500ml = 3,500 L).
-Functional residual capacity (CFR): Volume of gas contained in the lungs after normal expiration (2,300ml = 2.3 L).
+Mechanical ventilation is a resource of medical therapy used to give life support whose objective is to support or replace respiratory function until the total or partial reversal of the underlying problem that caused respiratory failure.<br />
+The knowledge and understanding of physiological and pathophysiological processes together with the constant improvement of mechanical ventilators based on technological advances have improved the survival of patients in critical condition.<br />
 
-Dynamic lung volumes
-Forced Vital Capacity (CVF): Total volume exhaled through a maximum forced expiration.
-Vef1 / Fev1: Volume of gas exhaled during the first second of exhalation.
-FEF: Air flow in the middle part of expiration (between 25% and 75% of CVF).
-FEV1 / CVF ratio: Known as the Tiffeneau index (it is considered pathological with a level below 0.7). In invasive breathing.
-Image 1. – Breathing curve per minute
+## Pulmonary ventilation physiology
+The lungs are elastic structures with resistance to volume expansion. Under normal conditions, the lung contains air inside it by positive pressure and external negative pressure in the pleural space.<br />
+Under normal conditions, the lungs adjust to the chest walls. There is a volume level at which the lung tendency to contract and the tendency of the chest wall to expand are the same, this being the resting position of the respiratory system. This is known as "Residual Functional Capacity" (CFR).<br />
+During inspiration (inhalation), muscular force overcomes lung and rib cage retraction, however, as the lungs fill with air, there comes a point where the elastic and muscular retraction forces equalize, making it impossible to incorporate more volume. To airspace. This phenomenon is known as "total lung capacity" (CPT).<br />
+Expiration (exhaling) is a passive process induced by the elastic force of pulmonary retraction that ranges from CPT to CFR. By continuing to expel air to levels below the CFR, a pulmonary contraction is carried out, however, an elastic counter-force of expansion is necessary to prevent lung collapse by equating said expansion force with the muscular force, the residual volume (VR) is obtained, this means the lung cannot expelled any more air.<br />
 
+## Parameters that assess respiratory function
+See Image 1 along with the reading.<br />
+Two types of lung volumes are divided into static and dynamic.<br />
+Static lung volumes: They are the ones that measure the volume of gas in the different positions of the rib cage. There are four volumes and four capacities resulting from the sum of the previous ones. <br /><br />
 
+Volumes:
+	Residual volume (VR): Volume contained in the lungs after a maximum expiration (approximately 1,200 ml).<br />
+	Tidal volume (CV): Mobilized volume at rest (approximately 500ml).<br />
+	Inspiratory Reserve Volume (VRI): volume that can be inspired after a normal inspiration (approximately 3,000ml = 3 L).<br />
+	Expiratory reserve volume (VRE): Volume that can be exhaled after a normal exhalation (approximately 1 100ml = 1.1 L).<br /><br />
 
+Capacities to consider for the machine:
+	Total Lung Capacity (CPT): Volume of gas contained in the lungs at maximum inspiration (approximately 5,800 ml).<br />
+	Vital Capacity (CV): Maximum exhaled gas volume one maximum inspiration (exhalation) (approximately 4,600 ml = 4.6 L).<br />
+	Inspiratory capacity (IC): Maximum inspired volume (approximately 3,500ml = 3,500 L).<br />
+	Functional residual capacity (CFR): Volume of gas contained in the lungs after normal expiration (2,300ml = 2.3 L).<br /><br />
 
-	
+Dynamic lung volumes:
+	Forced Vital Capacity (CVF): Total volume exhaled through a maximum forced expiration.<br />
+	Vef1 / Fev1: Volume of gas exhaled during the first second of exhalation.<br />
+	FEF: Air flow in the middle part of expiration (between 25% and 75% of CVF).<br />
+	FEV1 / CVF ratio: Known as the Tiffeneau index (it is considered pathological with a level below 0.7). In invasive breathing.<br /><br />
 
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Breathing_curve_per_minute.JPG?raw=true)<br />
+Image 1. – Breathing curve per minute.<br /><br />
 
-
-Clinical indications
-	Type I respiratory failure or severe hypoxemia: hypoxemia with normal or low PaCO2, increased alveolar-arterial O 2 gradient (AaPO2> 20 mmHg). PaO2 of less than 50 mmHg, decrease in arterial oxygen saturation and content, despite administering supplemental oxygen at a concentration equal to or greater than 50%, either through a venturi mask or a mask with a reservoir. It is the most common type of IR. To diagnose the above you need to do an arterial blood gas.
-	Respiratory failure II or hypercapnic: hypoxemia with elevated PaCO2 and normal alveolar-arterial O2 gradient (AaPO2 <20 mmHg), decrease in pH below 7.25, and the life of the patient is at risk. To diagnose you need to do an arterial blood gas.
-	Neuromuscular compromise of respiration: Demyelinating diseases or post traumatic injuries of the spinal cord or central nervous system.
-	Intracranial trauma: for initial management with controlled hyperventilation.
-	Hemodynamic instability: marked reduction in PvCO2, unstable blood pressure.
+## Clinical indications
+Type I respiratory failure or severe hypoxemia: hypoxemia with normal or low PaCO2, increased alveolar-arterial O 2 gradient (AaPO2> 20 mmHg). PaO2 of less than 50 mmHg, decrease in arterial oxygen saturation and content, despite administering supplemental oxygen at a concentration equal to or greater than 50%, either through a venturi mask or a mask with a reservoir. It is the most common type of IR. To diagnose the above you need to do an arterial blood gas.<br />
+Respiratory failure II or hypercapnic: hypoxemia with elevated PaCO2 and normal alveolar-arterial O2 gradient (AaPO2 <20 mmHg), decrease in pH below 7.25, and the life of the patient is at risk. To diagnose you need to do an arterial blood gas.<br />
+Neuromuscular compromise of respiration: Demyelinating diseases or post traumatic injuries of the spinal cord or central nervous system.<br />
+Intracranial trauma: for initial management with controlled hyperventilation.<br />
+Hemodynamic instability: marked reduction in PvCO2, unstable blood pressure.<br />
  
-Mechanical ventilation parameters
+## Mechanical ventilation parameters
+
 Table 1. - Parameters for mechanical ventilation.
-Respiratory rate (FR): 12-16 breaths per minute
-Tidal air volume (VT): 4ml O2 / kg or more (For each Kg of the patient's weight , if you do not have a scale, use table 3 )
-Tidal volume (V): 5-10 liters / minute
-Vital capacity (CV) 10-15 ml / kg minimum
-Inspiratory negative pressure (PNI)
-Minimum: -20cm H2O , Maximum: -30 cm H20
-Minimum dynamic distensibility: 25ml / cm H2O (1758 ml = 1.7 L / psi)
-FR / VT ratio should be less than (<) at 100 breaths per minute per liter.
-Re consistency of the system <5cm H2O / L / sec (Minimum pressure for air with oxygen to flow into the lungs)
-(0.35585 psi + atmospheric psi)) / L / second)
+|:---:|:---:|
+|Respiratory rate (FR)|12-16 breaths per minute|
+|Tidal air volume (VT)|4ml O2 / kg or more (For each Kg of the patient's weight , if you do not have a scale, use table 3)|
+|Tidal volume (V)|5-10 liters / minute|
+|Vital capacity (CV)|10-15 ml / kg minimum|
+|Inspiratory negative pressure (PNI)|Minimum: -20cm H2O , Maximum: -30 cm H20|
+|Minimum dynamic distensibility| 25ml / cm H2O (1758 ml = 1.7 L / psi)|
+|FR / VT ratio should be less than (<) at 100 breaths per minute per liter.|
+|Re consistency of the system <5cm H2O / L / sec (Minimum pressure for air with oxygen to flow into the lungs)
+(0.35585 psi + atmospheric psi)) / L / second)|
 
 
 Basic and initial programming of the fan
