@@ -1,5 +1,5 @@
 # Zephyros
-Multidisciplinary project prototype for oxygen generation, medical artificial breathers, PLC, Machine Learning and cloud services. <br />
+Multidisciplinary independent project prototype for oxygen generation, medical artificial breathers, PLC, Machine Learning and cloud services. <br />
 
 ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Zephyros_explanation.JPG?raw=true)
 
