@@ -83,7 +83,34 @@ Therefore we select the pressure process called PSA. <br />
 Note: See Annex B for the theory behind the PSA. <br />
 
 ## Conceptual design oxygen concentrator
-![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Oxygen_concentrator.png?raw=true)
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Oxygen_concentrator.png?raw=true)<br /><br />
+
+Where: <br />
+1.	Eliminator of water (H2O) and carbon dioxide (CO2). 3 inches in diameter by 12 inches. <br />
+2.	Transparent hose. <br />
+3.	Compressor. <br />
+4.	Compressor hose. <br />
+5.	Coil and insulated container with lid filled with cold water. Minimum 5 revolutions. <br />
+6.	Air filter. <br />
+7.	Air filter-CPVC connector. <br />
+8.	Ball valve (on- off) 1/2 inch. <br />
+9.	1/2 inch flow valve. <br />
+10.	Purge system. <br />
+11.	Absorbers. <br />
+12.	Pressure gauges (manometers) of 150 psi, except for 12.4, which must be 100 psi. <br />
+13.	Oxygen container. You can use a larger container than the one presented in this document but the pressure should not exceed 80 psi unless you use a professional oxygen cylinder and a compressor. <br /><br />
+Adjuncts. <br />
+A.	Wood or plywood board ½ inch thick. <br />
+B.	Metal lugs/handles with screw, nut and washers. <br />
+C.	Union nut. Allows the replacement of accessories in case of damage. <br />
+D.	Steel mesh. <br />
+	D.1 Two steel meshes per adsorbed. One upper and one lower. <br />
+	D.2 Two steel meshes per water and carbon dioxide remover. One upper and one lower. <br /><br />
+Notes: Name the valves, absorbers, etc; as seen in the diagram. <br />
+Mark valve positions when closed, this will help you for control and inspection during the process. <br />
+Depending on your type of compressor, it is likely that the water and carbon dioxide eliminator (1) and the compressor (3) change positions. <br />
+Whatever the case, these two parts must always be present continuously. <br />
+You can connect a compressor to the Val –F - 08 valve tubing outlet to compress oxygen and fill medical oxygen tanks. <br />
 
 ## Process indication
 According to the theory we will be working at pressures between 45 and 115 psi (4 to 8 bar) maximum. The air around us is at 14.7 psi, therefore we will be working with pressures higher than atmospheric. <br />
@@ -135,48 +162,281 @@ It must be less or equal to 6 HP and with a flow capacity less or equal to 9 SCF
 Optional: 1 refrigerator tank for the compressor.
  
 CPVC. (Yellow color).
-2 tubes. They can be of type 40 or 80. For both tubes, the same diameter. Use table 1.
-1 tube 1 1/2 inch in diameter and 4 inches long. Purge / waste.
-1 tube 3 inches in diameter and 12 inches long. Water and CO2. Eliminator.
-1 tube 6 inches in diameter and 60 inches long. (Container for oxygen). Capacity of 27.8 L.
-9 1/2 inch T-type connectors.
-5 for pipe joints and 4 for manometers.
-  Way of union with the manometers ->  
-5 1/2 inch elbow connector.
+2 tubes. They can be of type 40 or 80. For both tubes, the same diameter. Use table 1. <br />
+1 tube 1 1/2 inch in diameter and 4 inches long. Purge / waste. <br />
+1 tube 3 inches in diameter and 12 inches long. Water and CO2. Eliminator. <br />
+1 tube 6 inches in diameter and 60 inches long. (Container for oxygen). Capacity of 27.8 L. <br />
+9 1/2 inch T-type connectors. <br />
+5 for pipe joints and 4 for manometers. <br />
+  Way of union with the manometers ->  <br />
+  ![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Manometer_union.jpg?raw=true)<br />
+5 1/2 inch elbow connector. <br />
+8 1/2 inch ball-type valves. <br />
+1 1/2 inch pressure regulating valve. <br />
+5 Nut-union. <br />
+Tube-cpvc male-female adapters. <br />
+3 meters tube 1 /2 inch in diameter to make connections. <br />
+Diameter reductors. <br />
+1 CPVC - Serpentine connector. <br />
+2 CPVC caps of the selected diameter for absorbers. <br />
+Bite union hose. <br />
+1 Teflon tape or paste. <br />
+3 manometers with measurement capacity up to 150 psi. <br />
+1 manometer with measurement capacity up to 30 psi. <br />
+1 meter of transparent hose to connect to the compressor inlet (the diameter depends on your compressor). <br />
+1 container for cold water and the size must be according to the diameter selected in table 1. <br />
+1 steel / aluminum serpentine. <br />
+1 bag of ice to cool. <br />
+4 round steel net that can be inserted into tubes with the selected diameter. <br />
+2 net round steel 3 inches.
+Note: Steel nets must have pores that are smaller in size than the absorbent to be used. <br />
+1 can of clear CPVC cement that allows pressures between 180 and 250 psi. <br /> 
+Cooler. <br />
  
-8 1/2 inch ball-type valves.
+Absorbents. <br />
+CMS (Carbon Molecular Sieve), activated carbon or Zeolite type 5A (if any). <br />
+The latter can be bought from silica producers or agriculture providers. See table 1 for the specific weight you need inside the absorber and to that amount add 5 kg of absorbent. If you're going to produce your own activated carbon then multiply that amount by 1.3. For more information regarding absorbents see annex B. <br />
+2 air filters between 4 and 0.01 microns. <br /><br />
+
+## Assembly
+Work below shade and in a ventilated place. Use the conceptual diagram to guide you through the design. <br />
+The tubes of the selected diameter and the H2O - CO2 eliminator must have a lower net before ending step 8 inside section “Preparation of absorbents” and at the end of “Preparation of absorbents” you must add the other net. <br />
+Label the valves and other sections as in the conceptual diagram. <br />
+Clean each of the sections and parts very well before assembling it. The parts must be clean and dry. <br />
+Wash your hands continuously when you go to assemble the equipment. <br />
+Do not wash or get wet the absorbent, doing this could cause a decreasing effect in effectiveness. <br />
+
+## Absorbent preparation
+IF you use CMS or specialized activated carbon for gas separation then go to step 6 of the procedure in this section else you will need to prepare your own adsorbent. <br />
+In our case we use zeolite, which is very common to use in aquariums. If you want to use activated carbon then see the procedure to follow in the following link: ![alt text](https://www.wikihow.com/Make-Activated-Charcoal) <br />
+For this we buy the necessary kg of zeolite according to the amount of oxygen we want to produce by a factor of 1.3 at the required weight (see table 1). <br /><br />
+Materials. <br />
+•	Absorbent. <br />
+•	1 Mortar with pylon (in Mexico you can use a molcajete) or ball mill. <br />
+•	1 steel container with lid (steel pot). <br />
+•	1 Gas stove or some heat source. <br />
+•	1 industrial mask with a 1 micron filter. <br /><br />
+
+Process <br />
+1.	Grind the absorbent by using the mortar and pylon until the size of the stones are less than half centimeter. <br />
+Note: In case you want to do this step with a ball mill you will need: <br />
+•	1 steel container with lid (can be a clean 1L can of paint).<br />
+•	40 1-inch steel pellets. <br />
+•	Rotary motor. <br />
+•	Support for the steel container and the motor. <br /> <br />
+
+Arrange the pieces as seen in the following image. <br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Homemade_ball_mill.jpg?raw=true)<br />
+
+Image 1.- Homemade ball mill.<br />
+
+Where: <br />
+1.	Steel container with lid. <br />
+2.	Axis of rotation. <br />
+3.	Motor. <br />
+4.	Floor of your house. <br /><br />
+Process: <br />
+1.1. Fill the container without a lid to 1/3 of its capacity, evenly distributing the pellets and the absorbent. <br />
+1.2. Cover the container. <br />
+1.3. Activate the motor so that it begins to rotate until you are able to hear blows inside the container then you must maintain that speed. <br />
+1.4. Stop the motor every 5 minutes to inspect the size of the stone. <br />
+1.5. If the rocks are smaller than half a centimeter, the process ends, otherwise go back to step 1.4. <br />
+2.	Separate the dust from the rock, there should be only rocks. For this you can use a mesh and move it laterally so all the dust going to the ground. <br />
+3.	Put the rocks into the steel pot with dust-free lid. <br />
+4.	Heat for at least half an hour at maximum power until you start seeing steam. <br />
+5.	If after that minimum time you do not see steam, then turn off the stove and let it cool, you can use water to cool as long as the lid is tightly closed and only wet the exterior part of the steel pot. <br />
+6.	Insert the rocks into the absorbers and cover them with the corresponding caps according to their CPVC diameter. <br />
+7.	Repeat the procedure until the absorber 1, 2 and disposer of H2O - CO2 are 90% capacity. <br />
+8.	Put the upper net for each absorber. <br />
+9.	Repeat steps 6, 7, and 8 for the H2O / CO2 eliminator. <br />
+10.	Bond all other missing sections with CPVC cement. <br /> <br />
+
+## Oxygen concentrator process
+Security procedure. <br />
+Note: No pressure gauge should exceed 130 psi, if any exceed that pressure then the process must be aborted.<br /><br />
+Follow these instructions for abortion scheme:<br />
+I.	Turn off the compressor. <br />
+II.	Close all valves. <br />
+III.	Open Val-B-03, Val-B-01, Val-B-05 and Val-B-07 valves in that order for 100 seconds and at the end of that time the Val-B-03 valve must be closed. <br />
+IV.	Open Val-B-04, Val-B-06 and Val-B-02 valves for 100 seconds and at the end of time the valve Val-B-04 must be closed. <br /><br />
  
-1 1/2 inch pressure regulating valve.
-  
-5 Nut-union.
-Tube-cpvc male-female adapters.
-3 meters tube 1 /2 inch in diameter to make connections.
-Diameter reductors.
+Operating procedure.<br />
+1.	Make sure that all valves are closed.<br />
+2.	Make sure that pressure gauge 3 has a pressure lower than 80 psi, if it is greater than or equal to 80 psi, stop the process.<br />
+3.	Open valve Val-B-01.<br />
+4.	Turn on the compressor.<br />
+5.	Observe gauge 1 and wait until the pressure is 100 psi.<br />
+6.	When the pressure is 100 psi, close Val-B-01 and turn off the compressor.<br />
+7.	Wait 120 seconds.<br />
+8.	First open Val-B-07 and immediately afterwards Val-B-05 valve.<br />
+9.	When pressure gauge 1 is 50 psi close valve Val-B-07 and Val-B-05.<br />
+10.	If the pressure of pressure gauge 3 is equal to or greater than 80 psi, the process ends, otherwise continues.<br />
+11.	Open valve Val-B-03.<br />
+12.	Open valve Val-B-02.<br />
+13.	Turn on the compressor.<br />
+14.	Close Val-B-03 valve when pressure gauge 1 is 20 psi.<br />
+15.	Observe gauge 2 and wait until the pressure is 100 psi.<br />
+16.	When the pressure is 100 psi, close Val-B-02 and turn off the compressor.<br />
+17.	Wait 120 seconds.<br />
+18.	First open Val-B-07 and immediately after Val-B-06 valve.<br />
+19.	When the pressure of manometer 2 is 50 psi, close valve Val-B-07 and Val-B-06.<br />
+20.	Open valve Val-B-04.<br />
+21.	Open valve Val-B-01.<br />
+22.	Turn on the compressor.<br />
+23.	Close Val-B-04 valve when pressure gauge 2 is 20 psi.<br />
+24.	If the pressure of pressure gauge 3 is greater than or equal to 80 psi, the process ends, otherwise it returns to point 5. <br /><br />
+Important:<br />
+Constantly check the pressure on gauge 3. If the pressure is below 30 psi you will have to repeat the process.<br />
+If you use CMS then the oxygen will come out of the purge/waste section, therefore, you will have to adapt the process to follow.<br />
+Pressure losses through the pipe are minimal due to the size of the prototype.<br />
+You can automate the process using check valves, versa valves, etc. and connecting those with Arduino or you can automate it with pneumatic valves and timers.<br />
+The Val-F-08 valve and manometer 4 allow to control the concentrated oxygen flow and measure the necessary pressure towards the mechanical-electric respirator respectively.<br /><br />
+
+## Conclusion oxygen concentrator
+
+With all the aforementioned specifications and following each of these steps correctly you will have the ability to generate oxygen at a certain concentration in case of oxygen tanks shortage.<br />
+It is important to emphasize that the amount of oxygen produced depends on the air flow of your compressor since the filling times depend on it.<br />
+Do not work above the guidelines pressures, if you do, it will be at your own risk.<br />
+Seal each part very well to each other, if any part breaks, you can replace it using CPVC material.<br />
+You can increase the amount of production by creating more hubs.<br />
+If you want to produce large quantities of oxygen, you will need to change the material to steel tubes and you will need a change to other materials from CPVC to steel equivalent.<br />
+The support of the oxygen concentrator is essential, in this design a wooden support was used and screwed on the wall, however if you use steel you will have to adapt it.<br />
+Apply each of the safety instructions, for this read the safety sheets in annex C.<br />
+Also check all the recommendations of “handling concentrated oxygen containers”, please read Annex D.<br />
+
+## Mechanical-electrical respirator
+The mechanical respirator consists of several sections:<br />
+•	Mechanical-Electrical.<br />
+•	Control system. See Annex E for further explanation of biomechanics and its control.<br />
+Conceptual design of the respirator without electronics:<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_electrical_respirator_conceptual.jpg?raw=true)<br />
+
+Image 2. – Conceptual design full solution.<br />
+
+Where:<br />
+1.	Concentrated oxygen and air input.<br />
+2.	Electric mechanical respirator.<br />
+3.	Pressure valve.<br />
+4.	Humidifier with water based on patient weight.<br />
+5.	Expiration output.<br />
+6.	Humidifier for patient breathing.<br />
+7.	Pressure gauge for negative pressure.<br />
+8.	Mask.<br />
+
+## Mechanical-Electrical
+The following respirator model allows three parameters to be regulated in a controlled manner during mechanical action.<br />
+•	Total volume of air flow.<br />
+•	Respiratory rate per minute.<br />
+•	Pressure.<br /><br />
+It also meets the following requirements:<br />
+1.	It must be built with common materials and access to industrial production lines.<br />
+2.	Meet medical specifications.<br />
+3.	Insurance.<br />
+4.	It can be decontaminated, cleaned and reused.<br />
+5.	Lower monetary cost compared to a common breathing system.<br />
+6.	It's easy to build, maintain and upgrade.<br />
+7.	Scalable in improvements.<br /><br />
+
+## Mechanical respirator
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Mechanical_electrical_respirator.jpg?raw=true)<br />
+
+Image 3. - Basic render design of the artificial respirator.<br />
+
+Where:<br />
+1.	It is a "Nema 17" engine, widely used in 3-D printers, cheap and easy to get.<br />
+2.	It is an axis made up of an endless screw with a big distance between each threaded shank. It allows the control of the pressure exerted and controls the air flow.<br />
+3.	Gear system for mechanical work transfer between motor and worm gear.<br />
+4.	Balloon flattening plate.<br />
+5.	Skeleton and mechanism support. Avoid moving parts. Manual respirator type “Ambu” (Airway Mask Bag Unit).<br />
+6.	Balloon.<br />
+7.	Air intake and concentrated oxygen entrance.<br />
+8.	Connection to mask pipe with non-return valve.<br /><br />
+
+Important:<br />
+Parts 6, 7 and 8 are glued together when buying it.<br />
+It can also be adapted to infants by replacing a smaller manual respirator and one of the flattening plate (4) by adapting the axis (2).<br />
+According to the literature, the oxygen flow at its maximum concentration when supplied to the AMBU ventilator represents a flow of 10 L per minute towards the entrance of the AMBU and presents the highest concentration points when you decrease the respiratory cycle from 1 minute to half a minute [16].<br />
+Since the highest volumetric flow of concentrated oxygen is 10 L per minute for the most extreme cases where the concentration is the highest possible indefinitely, if you have a 100 L tank you will be without oxygen in ten minutes while maintaining that flow.<br />
+According to the literature, between 15 and 20 minutes the patient will have to breathe oxygen at the highest concentration possible, after this point the oxygen flow will decrease until reaching fifty percent. The oxygen container presented in the oxygen concentrator has a capacity of 27.8 L. This means if the container is full you will have concentrated oxygen for less than 2.5 minutes when the flow is at its maximum.<br />
+When the pressure of the container equals the pressure of the environment the oxygen will stop flowing at the necessary pressure and it will not reach the machine.<br />
+It should be noted that the oxygen production capacity of the oxygen concentrator is always above 10 L per minute even using the smallest pipe in Table 1 but it depends on the compressor air flow.<br />
+See Annex D for recommendations and precautions regarding the use of medicinal oxygen.<br />
  
-1 CPVC - Serpentine connector.
-2 CPVC caps of the selected diameter for absorbers.
-Bite union hose.
-1 Teflon tape or paste.
-3 manometers with measurement capacity up to 150 psi.
- 
-1 manometer with measurement capacity up to 30 psi.
- 
-1 meter of transparent hose to connect to the compressor inlet (the diameter depends on your compressor)
- 
-1 container for cold water and the size must be according to the diameter selected in table 1.
-1 steel / aluminum serpentine.
-1 bag of ice to cool.
-4 round steel net that can be inserted into tubes with the selected diameter.
-2 net round steel 3 inches
-Note: Steel nets must have pores that are smaller in size than the absorbent to be used.
- 
-1 can of clear CPVC cement that allows pressures between 180 and 250 psi.
-  
-Cooler.
- 
-Absorbents.
-CMS (Carbon Molecular Sieve), activated carbon or Zeolite type 5A (if any). The latter can be bought from silica producers or agriculture providers. See table 1 for the specific weight you need inside the absorber and to that amount add 5 kg of absorbent. If you're going to produce your own activated carbon then multiply that amount by 1.3. For more information regarding absorbents see annex B.
-2 air filters between 4 and 0.01 microns.
+## Maintenance
+Since the parts of the section 1 respirator are assembled with screws, nuts and washers. The maintenance is quite simple. Technically unscrew, replace the part and re-screw.
+<br />
+
+## Electronic
+
+Protoboard. 
+3.3V and 5V breadboard Power source or 12 V power supply and resistances.<br />
+Arduino Mega.<br />
+ESP8266 connection Wi-Fi.<br />
+Driver A4988.<br />
+Nema 17.<br />
+Acme screw.<br />
+Bearings.<br />
+Nuts.<br />
+12V power supply.<br />
+Water containers and tubes.<br />
+Pressure gauge for negative and positive pressure.<br />
+
+## Control system
+
+A control system regulates the outflow channel to the patient according medical indications and it is essential for the machine in order to operate in a semi-autonomous way.<br />
+The control system regulates the machine's concentrated oxygen air outlet valve, below you can see graphs of behavior within the control system used with a set of 2.5 cmH2O and 15 breaths per minute. However you can change settings for other conditions without affecting control. <br />
+These graphs showed the behavior of the control system through simulation with “Altair Activate” © open source.<br /><br />
+
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Oxygen_pressure_and_breaths.jpg?raw=true)<br />
+Image 4. - Behavior of oxygen pressure at a pressure of 2.5 cm H2O and 15 breaths per minute (PaO2).<br />
+
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Tydal_volume.jpg?raw=true)<br />
+Image 5. - Delivery air volume behavior (V or Tidal Volume).<br />
+
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Volumetric_flow.jpg?raw=true)<br />
+Image 6. - Delivered volumetric flow behavior (Q).<br />
+
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Behavior_of_predictions_for_PaO2.jpg?raw=true)<br />
+Image 7. - Behavior of predictions for PaO2, Q y V.<br />
+
+These graphs showed the regulations of the concentrated oxygen pressure towards the patient, the volumetric flow of air and the Tidal volume to the patient for each breath.<br /> Following a sine pattern which, according to Annex A Table 4, is the best flow type since it increases the inspiratory time and is the most similar to normal breathing.<br />
+Even with the transfer function proposed in annex E equation Eq. 6, we would have a convergence problem after the 200 iterations, for this we insert a memory block to the system. This memory block only adds a delay of 1 integration per step-time to the circuit. It should be noted that this arrangement with the memory block, under certain circumstances, could incur numerical instability.<br /><br />
+
+## Control system conclusion
+
+We have a device that can provide concentrated oxygen at a certain respiratory frequency for non-invasive cases that complies with the literature [15].<br />
+There should not be a big time gap between the control system and its implementation since reaction time for the valves and the engine is pretty quick.<br />
+Furthermore, by solving the equation Eq. 1 and Eq. 2 of Annex E, you could estimate the pressure of the alveolus and the air flow that the pulmonary alveolus would receive. This will be very useful for a total breathing system.<br />
+Finally, this control system is insufficient to regulate total respiration. In order to accomplish this we need different sensors and a new control system.<br /><br />
+Some of the main parameters to measure and regulate for total respiration are:<br />
+•	CO2 concentration.<br />
+•	Extraction of H2O as vapor product of respiration.<br />
+•	Frequency and respiratory force given by the brain to the lungs.<br />
+•	Maximum pressure that an alveolus can support.<br /><br />
+We are working to solve the problem of total respiration in a future software update through an update for control system and a procedure manual which will deliver all the connections from the new sensors and valves to the arduino without modifying the basic machinery and principles showed, however, we lack the budget, parts and time outside of working hours to be able to continue beyond the theory since they require medical tests in real time.<br />
+
+## Monitoring visualization
+One of the most important but not critical point in a respirator is viewing machine and patient statement.<br /><br />
+In our prototype design we decided that the use of monitoring screens per device is quite expensive and not scalable, therefore, we decided to migrate to the cloud with the idea of:<br />
+•	Any device connected to the internet with a physical screen, projectors, holograms, etc. it is a potential monitoring screen.<br />
+Therefore, we created a monitoring board in the cloud so that it can be accessed by the staff in charge of patients in order to better control each patient and a maintenance monitoring board for technical staff.<br />
+If any of the devices fails, then it would be an indication of failure on both boards and cause the taking of actions, even though the respirator has an audible alarm.
+However, it is important to emphasize that in our prototype is not 100% online at the moment.<br />
+Cloud conceptual diagram:<br />
+![alt text](https://github.com/BrandonLG/Zephyros/blob/master/Images/Cloud_monitoring.jpg?raw=true)<br />
+
+Where:<br />
+1.	Mechanical-electrical respirator and sensors.<br />
+2.	Cloud platform to support a large number of connected respirators.<br />
+3.	Visualization on phone, laptop, tablet, etc.<br /><br />
+Projected improvements to the platform and digitalization:<br />
+•	Setting almost 100% online channel by developing improvements in the platform within the cloud to allow almost real time synchronization.<br />
+•	Analytical to review potential improvements in the control systems so that it can later be implemented in the respirators automatically through an internet connection.<br />
+•	Internet updates.<br />
+•	Mobile app.<br />
+•	Notifications system through mobile application.<br />
+
+
 
 
 
